@@ -1,0 +1,15 @@
+D:\image_processing\course\videoProcess\videoProcess\bin\Release\videoProcess.exe.config
+D:\image_processing\course\videoProcess\videoProcess\bin\Release\videoProcess.exe
+D:\image_processing\course\videoProcess\videoProcess\bin\Release\videoProcess.pdb
+D:\image_processing\course\videoProcess\videoProcess\obj\Release\videoProcess.FormMain.resources
+D:\image_processing\course\videoProcess\videoProcess\obj\Release\videoProcess.FormMotion.resources
+D:\image_processing\course\videoProcess\videoProcess\obj\Release\videoProcess.Properties.Resources.resources
+D:\image_processing\course\videoProcess\videoProcess\obj\Release\videoProcess.csproj.GenerateResource.cache
+D:\image_processing\course\videoProcess\videoProcess\obj\Release\videoProcess.csproj.CoreCompileInputs.cache
+D:\image_processing\course\videoProcess\videoProcess\obj\Release\videoProcess.exe
+D:\image_processing\course\videoProcess\videoProcess\obj\Release\videoProcess.pdb
+D:\image_processing\course\videoProcess\videoProcess\obj\Release\videoProcess.FormIntraSample.resources
+D:\image_processing\course\videoProcess\videoProcess\obj\Release\videoProcess.FormTSS.resources
+D:\image_processing\course\videoProcess\videoProcess\obj\Release\videoProcess.FormBlockDiff.resources
+D:\image_processing\course\videoProcess\videoProcess\obj\Release\videoProcess.csprojAssemblyReference.cache
+D:\image_processing\course\videoProcess\videoProcess\obj\Release\videoProcess.FormInterSample.resources
